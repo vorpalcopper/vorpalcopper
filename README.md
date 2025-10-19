@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **vorpalcopper/vorpalcopper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,29 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+import { SoftwareEngineer } from '@fizasayyed';
+
+class Bio extends SoftwareEngineer {
+  name     = 'Lakshan';
+  title    = 'Software Engineer';
+  location = 'Erode, India';
+  uptime   = '15 yrs 6 months 9 days';
+}
+
+class CurrentlyLearning extends SoftwareEngineer {
+  current = ['Machine Learning with Python', 'Three.js', 'GSAP'];
+}
+
+class Skills extends SoftwareEngineer {
+  languages = ['JavaScript', 'Python'];
+  frontend  = ['React', 'Next.js', 'HTML5', 'CSS3', 'Tailwind CSS', 'Bootstrap', 'GSAP', 'Three.js'];
+  backend   = ['Node.js', 'Express'];
+  databases = ['MongoDB', 'MySQL'];
+  cloud     = ['AWS'];
+  design    = ['Blender'];
+  metaverse = ['Unreal Engine', 'Unity'];
+  blockchain = ['Solidity'];
+}
+
