@@ -15,14 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+```js
 import { SoftwareEngineer } from '@fizasayyed';
 
 class Bio extends SoftwareEngineer {
-  name     = 'Lakshan';
+  name     = 'Fiza Sayyed';
   title    = 'Software Engineer';
-  location = 'Erode, India';
-  uptime   = '15 yrs 6 months 9 days';
+  location = 'Bangalore, India';
+  uptime   = '24 yrs 0 months 2 days';
 }
 
 class CurrentlyLearning extends SoftwareEngineer {
@@ -40,3 +40,4 @@ class Skills extends SoftwareEngineer {
   blockchain = ['Solidity'];
 }
 
+```
